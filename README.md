@@ -16,7 +16,7 @@ The process used here is:
 3. Data Preparation for Modelling
     - Create Dummy Variables for multi-level categorical variables
     - Sclaing features (non-categorical)
-4. Feature Selection through RFE (Recursive Feature Elimination)
+4. Feature Selection through a balance approach betwen RFE (Recursive Feature Elimination) and backward approach
 5. Build the model
 6. Validate the Linear Regression Assumptions
 7. Make Predictions
